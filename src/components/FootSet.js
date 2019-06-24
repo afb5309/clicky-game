@@ -17,10 +17,10 @@ function FootSet() {
         <div className="col l4 offset-l2 s12  center-align">
           <h5 className="white-textn">Links</h5>
           <ul>
-            <li><a className="grey-text text-lighten-3" href="#!">Github Repository</a></li>
-            <li><a className="grey-text text-lighten-3" href="#!">Portfolio</a></li>
-            <li><a className="grey-text text-lighten-3" href="#!">React.js</a></li>
-            <li><a className="grey-text text-lighten-3" href="#!">Materialize.css</a></li>
+            <li><a className="grey-text text-lighten-3" href="https://github.com/afb5309/clicky-game/tree/master">Github Repository</a></li>
+            <li><a className="grey-text text-lighten-3" href="https://afb5309.github.io/">Portfolio</a></li>
+            <li><a className="grey-text text-lighten-3" href="https://reactjs.org/">React.js</a></li>
+            <li><a className="grey-text text-lighten-3" href="https://materializecss.com/about.html">Materialize.css</a></li>
           </ul>
         </div>
       </div>
