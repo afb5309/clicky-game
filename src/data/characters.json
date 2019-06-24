@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/scooby.png",
+    "used": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/shaggy.png",
+    "used": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/fred.png",
+    "used": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/velma.png",
+    "used": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/daphne.png",
+    "used": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/scrappy.png",
+    "used": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/ghoul.png",
+    "used": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/ghost.png",
+    "used": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/creeper.png",
+    "used": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/zombie.png",
+    "used": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/scuba.png",
+    "used": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/clown.png",
+    "used": false
+  }
+]
